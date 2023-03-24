@@ -1,0 +1,112 @@
+﻿  Button.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\src\Button.cpp(82,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\src\Button.cpp(83,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\src\Button.cpp(84,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\src\Button.cpp(85,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\src\Button.cpp(101,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ConfigManager.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Engine.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Entity.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ErrorHandler.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Game.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Grid.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  InputManager.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\src\InputManager.cpp(54,45): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\src\InputManager.cpp(55,45): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Menu.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Presenter.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\src\Presenter.cpp(58,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\src\Presenter.cpp(59,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SoundManager.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  State.cpp
+  StateManager.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  TitleScreen.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  WinScreen.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  World.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Writer.cpp
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(111,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\include\defines.h(112,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+Button.obj : error LNK2019: unresolved external symbol SDL_RenderCopy referenced in function "public: virtual void __cdecl Button::draw(void)" (?draw@Button@@UEAAXXZ)
+Presenter.obj : error LNK2001: unresolved external symbol SDL_RenderCopy
+Button.obj : error LNK2019: unresolved external symbol SDL_DestroyTexture referenced in function "public: virtual void __cdecl Button::destroy(void)" (?destroy@Button@@UEAAXXZ)
+Menu.obj : error LNK2001: unresolved external symbol SDL_DestroyTexture
+TitleScreen.obj : error LNK2001: unresolved external symbol SDL_DestroyTexture
+WinScreen.obj : error LNK2001: unresolved external symbol SDL_DestroyTexture
+Engine.obj : error LNK2019: unresolved external symbol SDL_RWFromFile referenced in function "struct SDL_Texture * __cdecl LoadTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct SDL_Renderer *)" (?LoadTexture@@YAPEAUSDL_Texture@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEAUSDL_Renderer@@@Z)
+Presenter.obj : error LNK2001: unresolved external symbol SDL_RWFromFile
+SoundManager.obj : error LNK2001: unresolved external symbol SDL_RWFromFile
+Engine.obj : error LNK2019: unresolved external symbol SDL_FreeSurface referenced in function "struct SDL_Texture * __cdecl LoadTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct SDL_Renderer *)" (?LoadTexture@@YAPEAUSDL_Texture@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEAUSDL_Renderer@@@Z)
+Writer.obj : error LNK2001: unresolved external symbol SDL_FreeSurface
+Engine.obj : error LNK2019: unresolved external symbol SDL_LoadBMP_RW referenced in function "struct SDL_Texture * __cdecl LoadTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct SDL_Renderer *)" (?LoadTexture@@YAPEAUSDL_Texture@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEAUSDL_Renderer@@@Z)
+Presenter.obj : error LNK2001: unresolved external symbol SDL_LoadBMP_RW
+Engine.obj : error LNK2019: unresolved external symbol SDL_CreateTextureFromSurface referenced in function "struct SDL_Texture * __cdecl LoadTexture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,struct SDL_Renderer *)" (?LoadTexture@@YAPEAUSDL_Texture@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@PEAUSDL_Renderer@@@Z)
+Writer.obj : error LNK2001: unresolved external symbol SDL_CreateTextureFromSurface
+ErrorHandler.obj : error LNK2019: unresolved external symbol SDL_Delay referenced in function "void __cdecl errorConfigNotFound(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?errorConfigNotFound@@YAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H0@Z)
+InputManager.obj : error LNK2019: unresolved external symbol SDL_GetKeyboardState referenced in function "public: void __cdecl InputManager::handleInput(void)" (?handleInput@InputManager@@QEAAXXZ)
+InputManager.obj : error LNK2019: unresolved external symbol SDL_StartTextInput referenced in function "public: void __cdecl InputManager::handleInput(void)" (?handleInput@InputManager@@QEAAXXZ)
+InputManager.obj : error LNK2019: unresolved external symbol SDL_StopTextInput referenced in function "public: void __cdecl InputManager::stopTextInput(void)" (?stopTextInput@InputManager@@QEAAXXZ)
+InputManager.obj : error LNK2019: unresolved external symbol SDL_GetMouseState referenced in function "public: void __cdecl InputManager::handleInput(void)" (?handleInput@InputManager@@QEAAXXZ)
+InputManager.obj : error LNK2019: unresolved external symbol SDL_PollEvent referenced in function "public: void __cdecl InputManager::handleInput(void)" (?handleInput@InputManager@@QEAAXXZ)
+Presenter.obj : error LNK2019: unresolved external symbol SDL_GetError referenced in function "private: void __cdecl Presenter::improveRenderer(void)" (?improveRenderer@Presenter@@AEAAXXZ)
+SoundManager.obj : error LNK2001: unresolved external symbol SDL_GetError
+Presenter.obj : error LNK2019: unresolved external symbol SDL_GetCurrentDisplayMode referenced in function "private: void __cdecl Presenter::improveRenderer(void)" (?improveRenderer@Presenter@@AEAAXXZ)
+Presenter.obj : error LNK2019: unresolved external symbol SDL_CreateWindow referenced in function "public: void __cdecl Presenter::init(void)" (?init@Presenter@@QEAAXXZ)
+Presenter.obj : error LNK2019: unresolved external symbol SDL_SetWindowFullscreen referenced in function "private: void __cdecl Presenter::improveRenderer(void)" (?improveRenderer@Presenter@@AEAAXXZ)
+Presenter.obj : error LNK2019: unresolved external symbol SDL_CreateColorCursor referenced in function "public: void __cdecl Presenter::init(void)" (?init@Presenter@@QEAAXXZ)
+Presenter.obj : error LNK2019: unresolved external symbol SDL_SetCursor referenced in function "public: void __cdecl Presenter::init(void)" (?init@Presenter@@QEAAXXZ)
+Presenter.obj : error LNK2019: unresolved external symbol SDL_SetHint referenced in function "private: void __cdecl Presenter::improveRenderer(void)" (?improveRenderer@Presenter@@AEAAXXZ)
+Presenter.obj : error LNK2019: unresolved external symbol SDL_CreateRenderer referenced in function "public: void __cdecl Presenter::init(void)" (?init@Presenter@@QEAAXXZ)
+Presenter.obj : error LNK2019: unresolved external symbol SDL_SetTextureAlphaMod referenced in function "public: static void __cdecl Presenter::drawObject(struct DrawableWithOpacity &)" (?drawObject@Presenter@@SAXAEAUDrawableWithOpacity@@@Z)
+Presenter.obj : error LNK2019: unresolved external symbol SDL_RenderSetLogicalSize referenced in function "private: void __cdecl Presenter::improveRenderer(void)" (?improveRenderer@Presenter@@AEAAXXZ)
+Presenter.obj : error LNK2019: unresolved external symbol SDL_RenderClear referenced in function "public: void __cdecl Presenter::draw(void)" (?draw@Presenter@@QEAAXXZ)
+Presenter.obj : error LNK2019: unresolved external symbol SDL_RenderDrawLineF referenced in function "public: void __cdecl Presenter::drawLine(struct float2,struct float2)" (?drawLine@Presenter@@QEAAXUfloat2@@0@Z)
+Presenter.obj : error LNK2019: unresolved external symbol SDL_RenderPresent referenced in function "public: void __cdecl Presenter::draw(void)" (?draw@Presenter@@QEAAXXZ)
+Presenter.obj : error LNK2019: unresolved external symbol SDL_Init referenced in function "public: void __cdecl Presenter::init(void)" (?init@Presenter@@QEAAXXZ)
+Presenter.obj : error LNK2019: unresolved external symbol TTF_Init referenced in function "public: void __cdecl Presenter::init(void)" (?init@Presenter@@QEAAXXZ)
+SoundManager.obj : error LNK2019: unresolved external symbol Mix_OpenAudio referenced in function "public: void __cdecl SoundManager::init(void)" (?init@SoundManager@@QEAAXXZ)
+SoundManager.obj : error LNK2019: unresolved external symbol Mix_AllocateChannels referenced in function "public: void __cdecl SoundManager::playSound(enum SOUND)" (?playSound@SoundManager@@QEAAXW4SOUND@@@Z)
+SoundManager.obj : error LNK2019: unresolved external symbol Mix_LoadWAV_RW referenced in function "public: void __cdecl SoundManager::init(void)" (?init@SoundManager@@QEAAXXZ)
+SoundManager.obj : error LNK2019: unresolved external symbol Mix_FreeChunk referenced in function "public: void __cdecl SoundManager::destroy(void)" (?destroy@SoundManager@@QEAAXXZ)
+SoundManager.obj : error LNK2019: unresolved external symbol Mix_PlayChannelTimed referenced in function "public: void __cdecl SoundManager::playSound(enum SOUND)" (?playSound@SoundManager@@QEAAXW4SOUND@@@Z)
+SoundManager.obj : error LNK2019: unresolved external symbol Mix_Volume referenced in function "public: void __cdecl SoundManager::playSound(enum SOUND)" (?playSound@SoundManager@@QEAAXW4SOUND@@@Z)
+Writer.obj : error LNK2019: unresolved external symbol TTF_OpenFont referenced in function "public: void __cdecl Writer::init(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?init@Writer@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Writer.obj : error LNK2019: unresolved external symbol TTF_RenderText_Blended referenced in function "public: struct std::pair<struct int2,struct SDL_Texture *> __cdecl Writer::getText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,enum FONT,enum COLOR,int)" (?getText@Writer@@QEAA?AU?$pair@Uint2@@PEAUSDL_Texture@@@std@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@3@W4FONT@@W4COLOR@@H@Z)
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\SDL\SDL2\lib\x86\SDL2.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\SDL\SDL2\lib\x86\SDL2main.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\SDL\SDL2\lib\x86\SDL2_mixer.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\SDL\SDL2\lib\x86\SDL2_ttf.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\PROGRAMMING\NiTe\EngineSetUp\EngineSetUp\x64\Debug\EngineSetUp.exe : fatal error LNK1120: 35 unresolved externals

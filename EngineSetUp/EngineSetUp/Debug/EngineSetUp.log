@@ -1,0 +1,35 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Grid.cpp
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\include\defines.h(118,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\include\defines.h(119,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(88,20): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(92,21): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(180,20): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(206,20): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(208,21): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(228,20): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(230,21): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(245,20): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(253,21): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(259,21): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(261,22): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(298,20): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(300,21): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(312,20): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(317,21): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(324,21): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(326,22): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(350,20): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(352,21): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(376,20): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(387,21): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(389,22): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(401,21): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(414,20): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(416,21): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(426,20): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(435,20): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(437,21): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(468,20): warning C4018: '<': signed/unsigned mismatch
+C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\src\Grid.cpp(470,21): warning C4018: '<': signed/unsigned mismatch
+  EngineSetUp.vcxproj -> C:\PROGRAMMING\EngineSetUp\EngineSetUp\EngineSetUp\Debug\EngineSetUp.exe
