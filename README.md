@@ -9,7 +9,7 @@ Built in C++ using SDL2.
 
 | Menu | Gameplay | Endscreen |
 |:----------------------:|:--------------------:| :--------------------:
-| ![Menu](media/menu.jpg) | ![Gameplay](media/gameplay.jpg) | ![Endscreen](media/endscreen.jpg) |
+| ![Menu](media/menu.png) | ![Gameplay](media/gameplay.png) | ![Endscreen](media/endscreen.png) |
 
 ---
 
